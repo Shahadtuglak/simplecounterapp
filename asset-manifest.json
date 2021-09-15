@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simplecounterapp/static/css/main.ebb32d4e.chunk.css",
+    "main.js": "/simplecounterapp/static/js/main.91c32446.chunk.js",
+    "main.js.map": "/simplecounterapp/static/js/main.91c32446.chunk.js.map",
+    "runtime-main.js": "/simplecounterapp/static/js/runtime-main.9e05ef6c.js",
+    "runtime-main.js.map": "/simplecounterapp/static/js/runtime-main.9e05ef6c.js.map",
+    "static/js/2.187c69c7.chunk.js": "/simplecounterapp/static/js/2.187c69c7.chunk.js",
+    "static/js/2.187c69c7.chunk.js.map": "/simplecounterapp/static/js/2.187c69c7.chunk.js.map",
+    "index.html": "/simplecounterapp/index.html",
+    "static/css/main.ebb32d4e.chunk.css.map": "/simplecounterapp/static/css/main.ebb32d4e.chunk.css.map",
+    "static/js/2.187c69c7.chunk.js.LICENSE.txt": "/simplecounterapp/static/js/2.187c69c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e05ef6c.js",
+    "static/js/2.187c69c7.chunk.js",
+    "static/css/main.ebb32d4e.chunk.css",
+    "static/js/main.91c32446.chunk.js"
+  ]
+}
